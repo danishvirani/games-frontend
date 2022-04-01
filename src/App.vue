@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <DataGrid/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import DataGrid from './components/DataGrid.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    DataGrid
   }
 }
 </script>

@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Testing
+
+Run unit test in CLI: `npm run test:unit`
+
+Standard test was created for testing API endpoint
+
+
